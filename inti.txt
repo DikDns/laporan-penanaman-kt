@@ -35,8 +35,23 @@ BAB II Tinjauan Pustaka
 
 BAB III Pelaksanaan Kegiatan
 
-	III.1. Rencana Kegiatan
+	III.1. Persiapan dan Perencanaan
+	- Apa bahan-bahan yang diperlukan?
+	- Apa alat-alat yang diperlukan?
+	- Kenapa memilih persiapan seperti itu?
 	- Apa rencana kegiatan yang akan dilaksanakan?
 	- Kapan dimulainya rencana tersebut?
 	- Kenapa merencanakannya seperti itu?
 	- Bagaimana proses rencananya?
+
+	III.2 
+	
+	I    | Penyemaian (5 Maret 2022)
+	II   | Pemupukan Dasar (12 Maret 2022)
+	III  | Minggu ke-3 (19 Maret 2022)
+	IV   | Penyemprotan (25 Maret 2022)
+	V    | Minggu ke-5 (1 April 2022)
+	VI   | Minggu ke-6 (8 April 2022)
+	VII  | Minggu ke-7 (15 April 2022)
+	VIII | Masa Generatif (22 April 2022)
+
