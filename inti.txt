@@ -1,6 +1,6 @@
-I Pendahuluan
+BAB I Pendahuluan
 	
-	I.1 Latar Belakang
+	I.1. Latar Belakang
 	- siapa penemu kacang tanah?	
 	- apa itu kacang tanah?
 	- dimana kacang tanah bisa ditanam?
@@ -8,19 +8,26 @@ I Pendahuluan
 	- kenapa kacang tanah itu penting untuk ditanam?
 	- bagaimana cara menanamnya?	
 
-	I.2 Rumusan Masalah
+	I.2. Rumusan Masalah
 	- siapa yang akan menanamnya?	
 	- apa mereka sanggup dalam melakukannya?
 	- dimana mereka akan melakukannya?
 	- kapan mereka akan melakukannya?
 
-	I.3 Tujuan Kegiatan
+	I.3. Tujuan Kegiatan
 	- apa tujuan utama melakukannya?
 	- apa yang ingin mereka capai?
 	- apa hasil positif yang mereka akan dapatkan?
 	- apa hasil negatif yang mereka akan dapatkan?
 
-	I.4 Manfaat Kegiatan
+	I.4. Manfaat Kegiatan
 	- Apa hasil pengetahuan yang mereka dapatkan?
 	- Apa hasil keterampilan yang mereka dapatkan?
 	
+
+BAB II Tinjauan Pustaka
+
+	II.1. Tanaman Kacang Tanah (Arachis hypogea L.) 
+	II.2. Morfologi Tanaman Kacang Tanah 
+	II.3. Pupuk Organik Cair
+	II.4. Pengaturan Kantung Polietilena
