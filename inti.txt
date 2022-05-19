@@ -1,15 +1,10 @@
 BAB I Pendahuluan
 	
 	I.1. Latar Belakang
-	- siapa penemu kacang tanah?	
 	- apa itu kacang tanah?
-	- dimana kacang tanah bisa ditanam?
-	- kapan kacang tanah matang?
 	- kenapa kacang tanah itu penting untuk ditanam?
-	- bagaimana cara menanamnya?	
 
 	I.2. Rumusan Masalah
-	- siapa yang akan menanamnya?	
 	- apa mereka sanggup dalam melakukannya?
 	- dimana mereka akan melakukannya?
 	- kapan mereka akan melakukannya?
@@ -28,9 +23,10 @@ BAB I Pendahuluan
 BAB II Tinjauan Pustaka
 
 	II.1. Tanaman Kacang Tanah (Arachis hypogea L.) 
-	II.2. Morfologi Tanaman Kacang Tanah 
-	II.3. Pengaruh Pupuk Organik Cair
-	II.4. Pengaturan Kantung Polietilena
+	II.2. Morfologi Tanaman Kacang Tanah
+	II.3. Hambatan Pertumbuhan Kacang Tanah
+	II.4. Pengaruh Pupuk Organik Cair
+	II.5. Pengaturan Kantung Polietilena
 
 
 BAB III Pelaksanaan Kegiatan
@@ -80,8 +76,47 @@ BAB III Pelaksanaan Kegiatan
 	
 	III.6 Masa Pembuahan
 	- Apa yang berubah pada Minggu ke-8 (22 April 2022)
-	- Deskripsikan kondisi bunga yang rontok wae wkwk
+	- Deskripsikan kondisi bunga yang rontok 
+	- Simpulan Paragraf tentang akhir dari pelaksanaan
 
+	III.7. Hari Panen
+	- Apakah Hasil sesuai dengan yang direncanakan? 
+	- Simpulan singkat
 
+BAB IV Pembahasan 
+
+	IV.1. Kesalahan Penyemaian
+	- Apa kesalahan yang sempat terjadi?
+	- Apa solusi yang dilakukan?
+	- Bagaimana prosesnya?
 	
+	IV.2. Pengaruh Pupuk
+	- Apa pengaruh positif dari pupuk yang digunakan?
+	- Apa pengaruh negatifnya?
+	- Apa saja pupuk yang digunakan?
+	- Kenapa menggunakan pupuk tersebut?
+	
+	IV.3. Pengaruh Insektisida
+	- Apa jenis insektisida yang digunakan?
+	- Kenapa?
+	- Apa pengaruh nya?
+	
+	IV.4. Penyakit Daun
+	- Deskripsikan keanehan yang terjadi!
+	- Apa ciri-ciri dari penyakit tersebut?
+	- Apa pengaruh penyakit tersebut?
+	- Simpulkan dari Tinjauan Pustaka
+	
+	IV.5. Hasil Panen
+	- Deskripsikan hasil panen dengan statistikanya!
+	- Apakah hasil panen sesuai ekspektasi? 
+	- Kapan dan Kenapa?
 
+
+BAB V Penutup
+
+	V.1. Simpulan
+	- Simpulkan secara singkat, padat, dan jelas! 
+	
+	V.2. Saran
+	- Memberikan saran yang sesuai dengan tulisan dan realistis!
