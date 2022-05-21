@@ -116,3 +116,12 @@ BAB V Penutup
 	
 	V.2. Saran
 	- Memberikan saran yang sesuai dengan tulisan dan realistis!
+
+I    | Penyemaian (5 Maret 2022)
+II   | Pemupukan Dasar (12 Maret 2022)
+III  | Minggu ke-3 (19 Maret 2022)
+IV   | Penyemprotan (25 Maret 2022)
+V    | Minggu ke-5 (1 April 2022)
+VI   | Minggu ke-6 (8 April 2022)
+VII  | Minggu ke-7 (15 April 2022)
+VIII | Masa Pembuahan (22 April 2022)
